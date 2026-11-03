@@ -1,3 +1,5 @@
+> **Part of the DC- Dreamcast family** (branch `unified`): [DC-DreamDash](https://github.com/blaskkaffe/DC-DreamDash/tree/unified) · [DC-PicoLink](https://github.com/blaskkaffe/DC-PicoLink/tree/unified) · [DC-iBlueControlMod](https://github.com/blaskkaffe/DC-iBlueControlMod/tree/unified) · [DC-BlueRetro](https://github.com/blaskkaffe/DC-BlueRetro/tree/unified) · [DC-openMenu-Virtual-Folder-Bundle](https://github.com/blaskkaffe/DC-openMenu-Virtual-Folder-Bundle/tree/unified). They work alone and together. The shared plan, feature list, vocabulary and licenses overview are in [docs/unified/](docs/unified/README.md).
+
 **This repository has been archived and is no longer under active development or maintenance.**
 
 ```
@@ -60,3 +62,15 @@ Thanks to all sponsors!
   https://github.com/Arthrimus/BlueRetro-HW2-GameCube
 
 <br><p align="center"><img src="https://cdn.hackaday.io/images/4560691598833898038.png" height="200"/></p>
+
+---
+
+## License of this repository (DC-BlueRetro)
+
+This is a copy of the final state of [darthcloud/BlueRetro](https://github.com/darthcloud/BlueRetro) (archived by its author), kept for the DC- Dreamcast family.
+
+- **Software: Apache License 2.0**, see [LICENSE](LICENSE). Copyright (c) 2019-2025 Jacques Gagnon; the notices in the source files stay as they are.
+- **Hardware designs** of BlueRetro are **CERN-OHL-P-2.0** (as stated above by upstream); no hardware files are in this repository.
+- **Logos** in `static/` are Copyright (c) 2022 Humble Bazooka, **CC BY-ND 4.0** (`static/LICENSE`): shareable unchanged, not modifiable.
+- The documents in [docs/unified/](docs/unified/README.md) (added for the family) are covered by Apache-2.0 as well.
+
